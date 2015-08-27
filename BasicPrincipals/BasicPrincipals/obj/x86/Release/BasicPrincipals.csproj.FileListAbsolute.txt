@@ -1,0 +1,9 @@
+C:\Users\Vera\AppData\Local\Temporary Projects\BasicPrincipals\bin\Release\BasicPrincipals.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\BasicPrincipals\bin\Release\BasicPrincipals.pdb
+C:\Users\Vera\AppData\Local\Temporary Projects\BasicPrincipals\obj\x86\Release\BasicPrincipals.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\BasicPrincipals\obj\x86\Release\BasicPrincipals.pdb
+C:\Users\Vera\Documents\Visual Studio 2015\Projects\BasicPrincipals\BasicPrincipals\obj\x86\Release\BasicPrincipals.exe
+C:\Users\Vera\Documents\Visual Studio 2015\Projects\BasicPrincipals\BasicPrincipals\obj\x86\Release\BasicPrincipals.pdb
+C:\Users\Vera\Documents\Visual Studio 2015\Projects\BasicPrincipals\BasicPrincipals\bin\Release\BasicPrincipals.exe
+C:\Users\Vera\Documents\Visual Studio 2015\Projects\BasicPrincipals\BasicPrincipals\bin\Release\BasicPrincipals.pdb
+C:\Users\Vera\Documents\Visual Studio 2015\Projects\BasicPrincipals\BasicPrincipals\obj\x86\Release\BasicPrincipals.csprojResolveAssemblyReference.cache
