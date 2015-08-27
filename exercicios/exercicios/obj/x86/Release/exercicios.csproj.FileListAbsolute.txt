@@ -1,0 +1,4 @@
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\bin\Release\exercicios.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\obj\x86\Release\exercicios.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\obj\x86\Release\exercicios.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\bin\Release\exercicios.pdb

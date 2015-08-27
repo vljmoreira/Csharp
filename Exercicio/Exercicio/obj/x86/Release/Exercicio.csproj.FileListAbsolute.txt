@@ -1,0 +1,8 @@
+C:\Users\Vera\AppData\Local\Temporary Projects\Exercicio\bin\Release\Exercicio.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\Exercicio\bin\Release\Exercicio.pdb
+C:\Users\Vera\AppData\Local\Temporary Projects\Exercicio\obj\x86\Release\Exercicio.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\Exercicio\obj\x86\Release\Exercicio.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\Exercicio\Exercicio\bin\Release\Exercicio.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\Exercicio\Exercicio\bin\Release\Exercicio.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\Exercicio\Exercicio\obj\x86\Release\Exercicio.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\Exercicio\Exercicio\obj\x86\Release\Exercicio.pdb

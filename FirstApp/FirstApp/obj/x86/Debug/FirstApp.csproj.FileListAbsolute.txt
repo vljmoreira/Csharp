@@ -1,0 +1,14 @@
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CarregarImagens.resources
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Vera\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Debug\WindowsFormsApplication1.CarregarImagens.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Debug\FirstApp.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Debug\FirstApp.pdb

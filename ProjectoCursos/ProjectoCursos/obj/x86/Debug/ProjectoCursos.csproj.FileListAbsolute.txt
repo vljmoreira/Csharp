@@ -1,0 +1,9 @@
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\bin\Debug\ProjectoCursos.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\bin\Debug\ProjectoCursos.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.Form1.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.Properties.Resources.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.csproj.GenerateResource.Cache
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.Login.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\ProjectoCursos\ProjectoCursos\obj\x86\Debug\ProjectoCursos.Principal.resources

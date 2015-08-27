@@ -1,0 +1,5 @@
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\bin\Debug\exercicios.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\bin\Debug\exercicios.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\obj\x86\Debug\exercicios.csprojResolveAssemblyReference.cache
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\obj\x86\Debug\exercicios.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\exercicios\exercicios\obj\x86\Debug\exercicios.pdb

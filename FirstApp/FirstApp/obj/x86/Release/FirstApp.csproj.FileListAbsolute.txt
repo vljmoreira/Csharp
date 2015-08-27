@@ -1,0 +1,7 @@
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\bin\Release\FirstApp.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\bin\Release\FirstApp.pdb
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Release\WindowsFormsApplication1.CarregarImagens.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Release\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Release\FirstApp.exe
+C:\Users\Vera\documents\visual studio 2010\Projects\FirstApp\FirstApp\obj\x86\Release\FirstApp.pdb
