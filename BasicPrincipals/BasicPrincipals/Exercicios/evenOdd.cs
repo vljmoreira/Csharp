@@ -5,39 +5,23 @@ using System.Text;
 
 namespace BasicPrincipals.Exercicios
 {
-    class evenOdd
+    class EvenOdd
     {
-        static void Main()
-        {
+        static void Main() {
+            
+            int num;
+            Console.WriteLine("Enter your number:\t");
+            num = Convert.ToInt32(Console.ReadLine());
 
-            int num1;
-            Console.WriteLine("#######################################################");
-            Console.WriteLine("to exit use '0'");
-            Console.WriteLine("Insere a number to check if its EVEN or ODD");
-
-            num1 = Convert.ToInt32(Console.ReadLine());
-
-            while (num1 != 0)
+            if (num % 2 == 0)
             {
-
-                if ((num1 % 2) == 0)
-                {
-                    Console.WriteLine("The number {0} is EVEN", num1);
-
-                }
-                else
-                {
-                    Console.WriteLine("The number {0} is ODD", num1);
-                }
-
-
-                Console.WriteLine("#######################################################");
-                Console.WriteLine("to exit use '0'");
-                Console.WriteLine("Insere a number to check if its EVEN or ODD");
-                num1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("O numero {0} is even", num);
             }
-            Console.WriteLine("Thank you for your patronage ");
+            else {
+                Console.WriteLine("O numero {0} is odd", num);
+            }
             Console.ReadLine();
-            }
+        
         }
+    }
 }
